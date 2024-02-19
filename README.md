@@ -1,6 +1,8 @@
 # Statements README
 How could anyone of predicted this. 
 
+![Uploading 3D HQ Image by Simon Lee.jpg…]()
+
 ## AI: Revolutionizing the Obvious
 
 - "AI will change the world." Because, of course, we thought it was developed to play vintage video games forever.
