@@ -1,5 +1,5 @@
 # Statements README
-How could anyone of predicted this. 
+How could anyone predict this. 
 
 
 ## AI: Revolutionizing the Obvious
