@@ -1,7 +1,6 @@
 # Statements README
 How could anyone of predicted this. 
 
-![Uploading 3D HQ Image by Simon Lee.jpg…]()
 
 ## AI: Revolutionizing the Obvious
 
